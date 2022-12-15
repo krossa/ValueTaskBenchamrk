@@ -1,4 +1,4 @@
-# ValueTaskBenchamrk
+# ValueTaskBenchmark
 
 To lunch benchmark you need to use Release configuration
 
