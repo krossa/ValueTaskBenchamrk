@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>value_task_benchamrk</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BenchmarkDotNet.Diagnostics.Windows" Version="0.13.1" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="6.0.1" />
+  </ItemGroup>
+
+</Project>
